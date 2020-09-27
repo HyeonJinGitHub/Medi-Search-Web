@@ -6,7 +6,7 @@
 ### 주요 기능
 <img src="https://user-images.githubusercontent.com/46698840/94368998-35ea5e80-0122-11eb-9a24-1d85a1046843.png" width="100%" height="300">
 <img src="https://user-images.githubusercontent.com/46698840/94369005-3edb3000-0122-11eb-8c3b-e356e59f36ec.png" width="100%" height="300">
-<img src="https://user-images.githubusercontent.com/46698840/94369016-469ad480-0122-11eb-91e1-6d21065a534e.png" width="100%" height="300">
+<img src="https://user-images.githubusercontent.com/46698840/94369016-469ad480-0122-11eb-91e1-6d21065a534e.png" width="100%" height="450">
 
 ### 개발 기간
 * 2019.10 ~ 2019.12
