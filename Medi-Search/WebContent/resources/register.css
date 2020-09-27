@@ -1,0 +1,91 @@
+*{
+   padding:0;
+   margin:0;
+   text-align: center;
+   align: center;
+   width:100%;
+   font-family: 'Noto Serif KR', serif;
+   background-color: #F1F2F5;
+}
+header
+{
+   margin:20px 10px 40px 0px;
+   font-size: 60px;
+   text-align: center;
+}
+img
+{
+	width: 120px;
+	height: 120px;
+	float: left;
+
+}
+body {
+   color: black;
+   font-family: '맑은 고딕', '돋음','고딕';
+}
+div {
+   margin-left: auto;
+   margin-right: auto;
+   width: 70%;
+   text-align: center;
+}
+ul {
+   list-style: none;
+   text-align: left;
+   background-color: #F1F2F5;
+   padding-top: 20px; padding-bottom: 20px;
+}
+a {
+  text-decoration: underline;
+   color: #1E527E; 
+   background-color: #D3D3D6;
+   
+}
+p {
+   background-color: #D3D3D6;
+}
+fieldset {
+   border : 1px solid lightgray;
+}
+
+input {
+	height : 30pt;
+	width : 30%;
+
+}
+.inp {
+	text-align: left;
+	margin-left: 3pt;
+}
+.resinp{
+	text-align: left;
+	margin-right: 50pt;
+}
+.ageinp{
+	text-align: left;
+	margin-right: 5pt;
+}
+.moinp {
+	text-align: left;
+	margin-right: 30pt;
+}
+.updateage {
+	text-align: left;
+	margin-right: 40pt;
+}
+.btn {
+   cursor: pointer;
+    background-color: #F1F2F5;
+}
+select {
+  text-align: center;
+  text-align-last: center;
+  width: 20%;
+}
+legend {
+	width: auto;
+}
+option {
+  text-align: left;
+}

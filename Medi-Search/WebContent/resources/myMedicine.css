@@ -1,0 +1,73 @@
+*{
+   padding:0;
+   margin:0;
+   text-align: center;
+   align: center;
+   width:100%;
+   font-family: 'Noto Serif KR', serif;
+   background-color: #F1F2F5;
+}
+div {
+   margin-left: auto;
+   margin-right: auto;
+   width: 70%;
+   text-align: center;
+}
+img
+{
+	width: 120px;
+	height: 120px;
+	float: left;
+
+}
+header
+{
+   margin:20px 10px 40px 0px;
+   font-size: 60px;
+   text-align: center;
+}
+body {
+   color: black;
+   font-family: '맑은 고딕', '돋음','고딕';
+}
+p {
+   background-color: #D3D3D6;
+}
+table {
+   width: 100%;
+}
+tr td {
+   font-size: 10pt;
+   border: 1px solid lightgray;
+   hergiht: 30px;
+   padding: 5px;
+   color: #000000;
+   background-color: #C7D2C6;
+}
+a {
+  text-decoration: underline;
+   color: #1E527E; 
+   background-color: #D3D3D6;   
+}
+.mediname {
+	 cursor: pointer;
+   background-color: #C7D2C6;
+}
+.medicinename {
+    width: 7%;
+}
+.ingredient {
+    width: 20%;
+}
+.bok {
+    width: 20%;
+}
+.effect {
+     width: 20%;   
+}
+.caution {
+    width: 20%;
+}
+.company {
+    width: 10%;
+}
