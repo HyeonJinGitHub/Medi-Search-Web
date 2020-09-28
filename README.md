@@ -22,9 +22,9 @@
 * HTML, CSS, JavaScript, JSP/Servlet, MySQL
 
 ### 설계환경
-* 데이터베이스 : MySQL
+* Front-End : HTML, CSS, JavaScript
 * Back-End : JSP/Servlet
-*Front-End* : HTML, CSS, JavaScript
+* 데이터베이스 : MySQL
 
 ### 성과
 * 웹프로그래밍 프로젝트 우수평가 달성
